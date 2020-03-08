@@ -1,3 +1,5 @@
 # Ruby Practice
-algorithm  
-多くの小さな例が含まれています
+
+algorithm & some strange things
+
+powered by ruby
