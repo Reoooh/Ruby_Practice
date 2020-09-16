@@ -1,5 +1,3 @@
 # Ruby Practice
 
-algorithm & some strange things
-
-powered by ruby
+ruby grammar, algorithm practice and crawler classwork
