@@ -23,7 +23,7 @@ end
 
 jojo = HelloJojo.new
 jojo.name = "JOJO"
-# jojo.hello
+jojo.hello
 
 # 当对象拥有多个实例变量时 逐个定义存取器过于繁杂 因此使用Ruby提供的存取器
 # 在实例方法中可使用self变量引用方法的接收者
@@ -44,3 +44,7 @@ class HelloDio
         puts "Hi, I am #{name}"
     end
 end
+
+dio = HelloDio.new
+dio.name = "DIO"
+dio.hi
